@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoWearApp</string>
+    <string name="hello_world">Hello Square World</string>
+    <string name="add_task">Add a Task</string>
+    <string name="delete_task">Removing Task</string>
+    <string name="task_saved">Task Saved</string>
+    <string name="task_removed">Task Removed</string>
+    <string name="cancel">Cancelled</string>
+</resources>
